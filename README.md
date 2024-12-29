@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> Hi there 👋 ! </h2>
+<h2 align="center"> Hello 👋 ! </h2>
 
 <p align="center">
 Je suis développeuse web spécialisée sur <strong>JavaScript & WordPress</strong> avec 6 ans d'expérience.<br>
