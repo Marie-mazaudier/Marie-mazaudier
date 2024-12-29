@@ -9,7 +9,7 @@ Passionnée par les technos modernes et la création de solutions web performant
 
 ---
 
-### 🛠️ My Tech Stack  
+### 🛠️ Ma Stack Technique
 - **Front-end :** JavaScript (React, Next.js), Tailwind CSS  
 - **Back-end :** PHP, WordPress (ACF, Timber), Twig , Strapi , Supabase
 - **Outils :** Git, GraphQL, REST API  
