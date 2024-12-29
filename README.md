@@ -11,13 +11,14 @@ Passionnée par les technos modernes et la création de solutions web performant
 
 ### 🛠️ My Tech Stack  
 - **Front-end :** JavaScript (React, Next.js), Tailwind CSS  
-- **Back-end :** PHP, WordPress (ACF, Timber), Twig  
+- **Back-end :** PHP, WordPress (ACF, Timber), Twig , Strapi , Supabase
 - **Outils :** Git, GraphQL, REST API  
 - **Actuellement en formation continue sur :** Next.js, TypeScript  
 
 ---
 
 ### 🚀 Mes Projets  
+- 🏗️ **Site vitrine sur mesure** (WordPress, PHP, Timber, ACF)  
 - 🛒 **E-commerce headless** (Next.js, GraphQL)  
 - 💼 **SaaS de gestion de budget** (React, TypeScript)  
 - 🌐 **Portfolio :** [marie-esturgie.com](https://marie-esturgie.com)  
