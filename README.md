@@ -3,7 +3,7 @@
 <h2 align="center"> Hello 👋 ! </h2>
 
 <p align="center">
-Je suis développeuse web spécialisée sur <strong>JavaScript & WordPress</strong> avec 6 ans d'expérience.<br>
+Je suis développeuse web spécialisée sur <strong>JavaScript, PHP & WordPress</strong> avec 6 ans d'expérience.<br>
 Passionnée par les technos modernes et la création de solutions web performantes.
 </p>
 
@@ -11,9 +11,9 @@ Passionnée par les technos modernes et la création de solutions web performant
 
 ### 🛠️ Ma Stack Technique
 - **Front-end :** JavaScript (React, Next.js), Tailwind CSS  
-- **Back-end :** PHP, WordPress (ACF, Timber), Twig , Strapi , Supabase
+- **Back-end :** PHP, WordPress (ACF, Timber), Twig , Strapi
 - **Outils :** Git, GraphQL, REST API  
-- **Actuellement en formation continue sur :** Next.js, TypeScript  
+- **Actuellement en formation  sur : automatisation CI / CD & workflow github Action  
 
 ---
 
