@@ -18,7 +18,7 @@ Passionnée par les technos modernes et la création de solutions web performant
 ---
 
 ### 🚀 Mes Projets  
-- 🏗️ **Site vitrine sur mesure** (WordPress, PHP, Timber, ACF)  
+- 🏗️ **Site vitrine & institutionnel sur mesure** (WordPress, PHP, Timber, ACF)  
 - 🛒 **E-commerce headless** (Next.js, GraphQL)  
 - 💼 **SaaS de gestion de budget** (React, TypeScript)  
 - 🌐 **Portfolio :** [marie-esturgie.com](https://marie-esturgie.com)  
