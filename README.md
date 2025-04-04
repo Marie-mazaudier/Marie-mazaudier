@@ -13,7 +13,7 @@ Passionnée par les technos modernes et la création de solutions web performant
 - **Front-end :** JavaScript (React, Next.js), Tailwind CSS  
 - **Back-end :** PHP, WordPress (ACF, Timber), Twig , Strapi
 - **Outils :** Git, GraphQL, REST API  
-- **Actuellement en formation  sur : automatisation CI / CD & workflow github Action  
+- Actuellement en formation  sur : automatisation CI / CD & workflow github Action  
 
 ---
 
